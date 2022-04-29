@@ -1,0 +1,14 @@
+*{box-sizing: border-box;}
+html, body{
+  height: 100%;
+}
+i{
+  display: inline-block;
+  margin-left: 10px;
+  cursor: pointer;
+}
+h5{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
